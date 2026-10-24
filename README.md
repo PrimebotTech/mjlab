@@ -1,4 +1,4 @@
-![Project banner](https://raw.githubusercontent.com/mujocolab/mjlab/main/docs/source/_static/mjlab-banner.jpg)
+![Project banner]
 
 # mjlab
 
