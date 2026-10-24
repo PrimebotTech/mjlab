@@ -113,4 +113,3 @@ design and abstractions mjlab builds upon.
 Thanks to the MuJoCo Warp team — especially Erik Frey and Taylor Howell — for
 answering our questions, giving helpful feedback, and implementing features
 based on our requests countless times.
-# mjlab
